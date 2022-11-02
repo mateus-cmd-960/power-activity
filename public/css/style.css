@@ -42,13 +42,13 @@ header{
 }
 
 .btn-primary{
-    background-color: #f2a340;
-    border: 2px solid #c28008;
+    background-color: #f02525;
+    border: 2px solid #f81414;
 }
 
 .btn-primary:hover{
-    background-color: #f2a340;
-    border: 2px solid #c28008;
+    background-color: #640303;
+    border: 2px solid #a80117;
 }
 
 #navbar{
@@ -77,7 +77,7 @@ header{
 }
 
 #search-container h1{
-    color: #f2a340;
+    color: white;
     margin-bottom: 30px;
     font-weight: 900;
 }

@@ -63,7 +63,7 @@
                 </div>
             </div>
         </main>
-        <footer>HDC EVENTS &copy; 2020</footer>
+        <footer>Power Activity &copy; 2021</footer>
         <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
         <script src="/js/script.js"></script>
         
