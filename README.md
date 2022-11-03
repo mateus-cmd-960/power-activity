@@ -12,5 +12,7 @@
 
 
 <div>
-<img src="public/assets/transferir.png" alt="transferir"/>
+<img src="public/images/transferir.png" alt="transferir"/>
+<img src="public/images/transferir2.png" alt="transferir2"/>
 </div>
+
